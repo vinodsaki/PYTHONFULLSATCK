@@ -1,0 +1,104 @@
+.bg-container{
+    background-image: url(image/image.png);
+    height: 100vh;
+    background-size: cover;
+}
+.tourism-card{
+    text-align: center;
+    background-color: aliceblue;
+    padding: 5px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+.heading{
+    font-family: 'Times New Roman', Times, serif;
+}
+.para{
+    font-family: 'Times New Roman', Times, serif;
+}
+.button{
+    height: 36px;
+    width: 136px;
+    background-color: aqua;
+    color: white;
+    border-radius: 20px;   
+}
+.favourite-places{
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/towerbg.png");
+    height: 100vh;
+    background-size: cover;
+}
+.f1-heading{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    padding: 24px;
+    color: white;
+    font-weight: bold;
+}
+.f1-card-container{
+    background-color: white;
+    border-radius: 8px;
+    margin: 10px;
+}
+.f1-card-heading{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 23px;
+    font-weight: bold;
+}
+.description{
+    color: dimgrey;
+    font-size: 13px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.card-image{
+    height: 90px;
+    width: 80px;
+    border-radius: 5px;
+    margin: 15px;
+}
+.heading{
+    padding-left: 10px;
+}
+
+
+
+.detailed-view-bg-container{
+  background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/seabg.png");
+  padding: 24px;
+  background-size: cover;
+}
+.detailed-view-card-heading{
+  font-family: "Roboto";
+  font-size: 20px;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  
+}
+.detailed-view-card-container{
+  background-color: white;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+  margin: 15px;
+  
+}
+.detailed-view-card1-heading{
+  color: #0f0e46;
+  font-size: 23px;
+  font-family: "Roboto";
+  font-weight: bold;
+}
+.detailed-view-card-description{
+  color: #6c6b70;
+  font-family: "Roboto";
+  font-size: 10px;
+
+}
+.detailed-view-card3-container{
+  padding: 16px;
+}
+.detailed-view-card-description-unordered-list{
+    list-style-type: circle;
+}

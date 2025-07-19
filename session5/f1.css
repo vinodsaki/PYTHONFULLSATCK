@@ -1,0 +1,201 @@
+/* 
+.bg-container{
+    background-image: url('https://assets.ccbp.in/frontend/intermediate-rwd/summer-collection-bg.png');
+    border: 1px solid grey;
+    font-family: "Roboto";
+
+}
+.card-container{
+    border: 1px solid grey;
+    border-radius: 24px;
+    background-color: white;
+    margin: auto;
+    margin-top: 80px;
+    max: width 500px; ;
+}
+.heading{
+    padding-left: 20px;
+    font-size: 30px;
+
+}
+.card-body{
+    padding: 32px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-top: 1px solid lightgray;
+}
+img{
+    width: 30%;
+    height: 300px;
+    border-radius: 24px;
+    margin: 10px;
+
+}
+.description{
+    color: #59465d;
+    font-size: 10px;
+
+
+}
+.button{
+    font-family: "Roboto";
+    font-size: 16px   ;
+    font-weight: 700px;
+    background-color: antiquewhite;
+    color: #12022f;
+    border: none;
+    border-radius: 20px;
+    padding: 12px;
+    
+
+} */
+/* .box-box1{
+    height: 120px;
+    width: 120px;
+    background-color: skyblue;
+    display: flex;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 10px;
+}
+.box2{
+    padding: 20px;
+} */
+ .boxcontainer{
+    display: flex;
+    border: 10px solid goldenrod;
+    flex-direction: row;
+    /* align-items: flex-start; */
+     height: 100vh;
+    flex-wrap: wrap;
+}
+.box{
+    color: white;
+    font-size: 60px;
+    padding: 10px;
+    text-align: center;
+}
+.box1{
+    background-color: #6dc5cb;
+}
+.box2{
+    background-color: #f7b7a3;
+}
+.box3{
+    background-color: #f7d6a3;
+}
+.box4{
+    background-color: #f7a3a3;
+}       
+.box5{
+    background-color: #f7a3d6;
+}
+.box6{
+    background-color: #a3f7d6;
+}
+.box7{
+    background-color: #a3d6f7;
+}
+.box8{
+    background-color: #a3a3f7;
+}
+.box9{
+    background-color: #d6a3f7;
+}
+.box10{
+    background-color: #d6f7a3;
+} 
+ /* body {
+  margin: 0px;
+}
+
+.bg-container {
+  font-family: "Open Sans";
+  background-color: #2b5489;
+  min-height: 100vh;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.heading {
+  color: white;
+  width: 90%;
+  max-width: 900px;
+  font-size: 48px;
+  text-align: center;
+}
+
+.description {
+  color: #e2e8f0;
+  margin-bottom: 56px;
+  width: 90%;
+  max-width: 900px;
+  font-size: 20px;
+  text-align: center;
+}
+
+.cards-container {
+  width: 90%;
+  max-width: 900px;
+  align-items: center;
+  display: flex;
+  flex-flow: row wrap;
+;
+}
+
+.card {
+  background-color: white;
+  width: 210px;
+  border-radius: 12px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 28px;
+  padding-left: 28px;
+  margin-bottom: 24px;
+  font-family: "Open Sans";
+  margin-left: 12px;
+  margin-right: 12px;
+  font-size: 18px;
+  color: #334155;
+}
+
+.border-green {
+  border-left: 8px solid #65a30d;
+}
+
+.border-dark-green {
+  border-left: 8px solid #0d9488;
+}
+
+.border-dark-yellow {
+  border-left: 8px solid #ca8a04;
+}
+
+.border-orange {
+  border-left: 8px solid #ea580c;
+}
+
+.border-blue {
+  border-left: 8px solid #4f46e5;
+}
+
+.border-violet {
+  border-left: 8px solid #9333ea;
+}
+
+.border-pink {
+  border-left: 8px solid #db2777;
+}
+
+.border-red {
+  border-left: 8px solid #e11d48;
+}
+.box{
+  justify-content: center;
+} */
+ @media screen{
+
+ }

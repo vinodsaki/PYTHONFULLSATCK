@@ -1,0 +1,14 @@
+.navbar-image{
+    height: 80px;
+    width: 30px;
+    padding: 5px;
+}
+.navbar-items-alignment{
+    text-align: right;
+} 
+.tourism-card{
+background-image: linear-gradient(#f16011,rgba(235, 234, 235, 0),#0e5c16);
+background-image: cover;
+text-align: center;
+height: 100vh;
+}
